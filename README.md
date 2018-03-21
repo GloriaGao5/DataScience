@@ -1,5 +1,5 @@
 # Kaggle Projects
-# Project 1: Spooky Author Classification(https://www.kaggle.com/c/spooky-author-identification)
+### Project 1: Spooky Author Classification(https://www.kaggle.com/c/spooky-author-identification)
     
 + Project summary: In this project, we are going to answer questions below  
     + predict the author of excerpts from horror stories by Edgar Allan Poe, Mary Shelley, and HP Lovecraft.
