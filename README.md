@@ -3,8 +3,8 @@
     
 + Project summary: In this project(https://www.kaggle.com/c/spooky-author-identification), we are going to answer questions below  
     + predict the author of excerpts from horror stories by Edgar Allan Poe, Mary Shelley, and HP Lovecraft.
-    + Feature extraction, feature engineering
-    + Question tag recommendation engine
+    + Feature extraction, feature engineering, text mining
+    + Deep Learning 
 
 + Data source:  
     + https://www.kaggle.com/c/spooky-author-identification/data   
