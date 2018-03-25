@@ -27,6 +27,10 @@
   + Question 4
     + Build a derived variable for tip as a percentage of the total fare.
     + Build a predictive model for tip as a percentage of the total fare. Use as much of the data as you like (or all of it). We will validate a sample.
+  + Question 4
+    + Build a derived variable representing the average speed over the course of a trip.
+    + Perform a test to determine if the average trip speeds are materially the same in all weeks of September; If you decide they are not the same, can you form a hypothesis regarding why they differ?
+    + Build up a hypothesis of average trip speed as a function of time of day.
 
 
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
